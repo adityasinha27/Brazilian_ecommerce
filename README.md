@@ -24,7 +24,7 @@ Follow these steps to get the project up and running on your local machine:
    Clone the repository using git:
 
    ```bash
-   git clone https://github.com/stefansphtr/Data-Analytics-Brazilian-Ecommerce/tree/data-visualization.git
+   git clone [https://github.com/adityasinha27/Brazilian_ecommerce.git]
    ```
 
 2. **Set up a virtual environment** (Optional)
