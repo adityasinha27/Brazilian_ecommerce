@@ -1,18 +1,4 @@
-<p align="center">
-  <a href="#">
-    <img src="https://badges.pufler.dev/visits/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Visits Badge">
-    <img src="https://badges.pufler.dev/updated/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Updated Badge">
-    <img src="https://badges.pufler.dev/created/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Created Badge">
-    <img src="https://img.shields.io/github/contributors/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Contributors Badge">
-    <img src="https://img.shields.io/github/last-commit/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Last Commit Badge">
-    <img src="https://img.shields.io/github/commit-activity/m/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Commit Activity Badge">
-    <img src="https://img.shields.io/github/repo-size/stefansphtr/Data-Analytics-Brazilian-Ecommerce" alt="Repo Size Badge">
-    <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions welcome">
-    <img src="https://www.codefactor.io/repository/github/stefansphtr/data-analytics-brazilian-ecommerce/badge" alt="CodeFactor" />
-  </a>
-</p>
 
-# <img src="./src/Logo-Dicoding-Academy.gif" width="50"> Project Data Analytics: Brazilian E-Commerce Public Dataset by Olist <img src="./src/Logo-Dicoding-Academy.gif" width="50">
 
 ## 📚 Table of Contents
 
@@ -119,36 +105,6 @@ Follow these steps to get the project up and running on your local machine:
     - Product Category sales performance
     - Daily sales performance
 
-## 🗂️ Entity Relationship Diagram
-
-![ERD](https://i.imgur.com/HRhd2Y0.png)
-
-The Entity Relationship Diagram (ERD) provides a comprehensive graphical view of the logical structure of our database. It helps to understand how different tables are related to each other in the database.
-
-The ERD for this project is defined in the [db_schema.vuerd.json](ERD/db_schema.vuerd.json) file and can be viewed using tools that support the Vuerd format.
-
-The diagram includes the following tables:
-
-- `customers_dataset`: This dataset has information about the customer and its location. Use it to identify unique customers in the orders dataset and to find the orders delivery location.
-  
-- `geolocation_dataset`: This dataset has information Brazilian zip codes and its lat/lng coordinates.
-  
-- `orders_dataset`: This is the core dataset of the project.
-  
-- `order_items_dataset`: This dataset includes data about the items purchased within each order.
-  
-- `order_payments_dataset`: This dataset includes data about the orders payment options.
-  
-- `order_reviews_dataset`: This dataset includes data about the reviews made by the customers.
-  
-- `products_dataset`: This dataset includes data about the products sold by Olist.
-  
-- `product_category_name_translation`: This dataset translates the product_category_name to english.
-  
-- `sellers_dataset`: This dataset includes data about the sellers that fulfilled orders made at Olist.
-
-Each table is linked to one or more other tables through foreign keys, representing the relationships between different entities in the e-commerce business model.
-
 ## 📈 Dashboard Explanation
 
 Follow these steps to run the dashboard on your local machine:
@@ -163,7 +119,7 @@ Follow these steps to run the dashboard on your local machine:
 
    This will start the Streamlit server and open a new page in your default web browser with the URL of the Streamlit app.
 
-   Or you can run the dashboard directly from the web browser by clicking on the following link: [STREAMLIT APP LINK](https://stefan-submission.streamlit.app/)
+   
 
 2. **Use the dashboard**
 
@@ -187,4 +143,4 @@ print("Thank you for reading! 🙏")
 
 **Thank you for reading! 🙏**
 
-<div align='center'><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"></div># Brazilian_ecommerce
+
