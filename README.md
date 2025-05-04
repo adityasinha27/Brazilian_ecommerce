@@ -161,8 +161,7 @@ The dashboard provides a visual representation of sales performance data. Here's
 
 ![Screenshot 2025-05-01 135907](https://github.com/user-attachments/assets/81c0400e-6b58-4c6f-a599-7b4c5bb90581)
 
-
-![Screenshot 2025-04-25 074332](https://github.com/user-attachments/assets/10aab99b-b426-4831-b7d2-689689fbd944)
+![f6f921c4e650d74d37c1b9329ba0c1ba8d8045faae554661054e37d6](https://github.com/user-attachments/assets/9e5c4c8b-1e32-42c3-8a8d-949e601ffc0d)
 
 
    The dashboard includes two charts: Sales by Product Line and Sales by Day. These charts provide a visual representation of the sales data based on your filter selections.
