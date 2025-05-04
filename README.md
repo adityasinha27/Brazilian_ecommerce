@@ -7,7 +7,6 @@
   - [🎯 Introduction](#-introduction)
   - [💻 Installation](#-installation)
   - [🔄 Project Workflow](#-project-workflow)
-  - [🗂️ Entity Relationship Diagram](#️-entity-relationship-diagram)
   - [📈 Dashboard Explanation](#-dashboard-explanation)
 
 
@@ -104,6 +103,28 @@ Follow these steps to get the project up and running on your local machine:
     
     - Product Category sales performance
     - Daily sales performance
+  
+   Key Performance Indicators (KPIs): Display total sales, average rating, and average sales per order.
+
+      Visualizations:
+      
+      Sales by Product Line: Horizontal bar chart showcasing sales distribution across product categories.
+      
+      Daily Sales: Bar chart illustrating sales trends over days.
+      
+      Predictive Analytics:
+      
+      Predict total order price based on input features like freight value and price.
+      
+      Estimate delivery time using a Random Forest Regressor.
+      
+      Classify review scores using a Random Forest Classifier.
+      
+      Monthly Sales Forecasting: Utilize an LSTM model to forecast sales for the upcoming month.
+      
+      Data Export: Download prediction results in CSV or Excel formats.
+      
+      Dark Mode UI: Enhanced user interface with a dark theme for better readability
 
 ## 📈 Dashboard Explanation
 
@@ -134,6 +155,15 @@ The dashboard provides a visual representation of sales performance data. Here's
    At the top of the dashboard, you'll see key performance indicators (KPIs) such as total sales, average rating, and average sales per order.
 
 - **Explore the charts**
+
+  
+![Screenshot 2025-04-25 074332](https://github.com/user-attachments/assets/da77a828-b9c4-47dc-8005-21c3a21910e1)
+
+![Screenshot 2025-05-01 135907](https://github.com/user-attachments/assets/81c0400e-6b58-4c6f-a599-7b4c5bb90581)
+
+
+![Screenshot 2025-04-25 074332](https://github.com/user-attachments/assets/10aab99b-b426-4831-b7d2-689689fbd944)
+
 
    The dashboard includes two charts: Sales by Product Line and Sales by Day. These charts provide a visual representation of the sales data based on your filter selections.
 
